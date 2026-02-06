@@ -7,6 +7,6 @@
 - [ ] Um menu iniciar
 - [ ] Uma interface gráfica(GUI)
 
-### Biblioteca utilizadas
+### Dependencias
 - **Pygame** : para que ele possa emitir um som no final de cada tempo
 - **Pyflget**
