@@ -1,5 +1,6 @@
 import os
 import time
+from pathlib import Path
 from pygame import mixer
 import pyfiglet
 
@@ -36,9 +37,15 @@ def time2longrest():
 
     mixer.music.play()
 
-
 mixer.init()
-mixer.music.load("Pymodoro/erro.mp3")
+
+## Caminho do arquivo .mp3
+### Agora nem você ou eu vamos ter que copiar o caminho do arquivo .mp3 para que o codigo funcione kk
+ROOT_FILE = Path(__file__).parent
+SOUNDFILE_PATH = ROOT_FILE / "erro.mp3"
+
+mixer.music.load(SOUNDFILE_PATH)
+mixer.music.play()
 
 time2focus()
 
