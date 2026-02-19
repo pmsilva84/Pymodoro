@@ -34,4 +34,11 @@ def chronoTimer():
             time -= 1
         
         play_sound()
-        
+
+        option = input("Do you want to continue ? (Y/n)")
+        if option == "Y" or "y":
+            pass
+        else:
+            break
+
+chronoTimer()
