@@ -1,0 +1,13 @@
+{
+  "focusTime": 25,
+  "shortRest": 5,
+  "longRest": 15,
+  "Sequence": [
+    "focusTime",
+    "shortRest",
+    "focusTime",
+    "shortRest",
+    "focusTime",
+    "longRest"
+  ]
+}
