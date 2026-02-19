@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Path setup
 ROOT_FILE = Path(__file__).parent
-JSON_FILE = ROOT_FILE / "timers.json"
+JSON_FILE = ROOT_FILE / "config.json"
 
 
 if __file__ == "__main__":
