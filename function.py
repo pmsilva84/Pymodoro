@@ -41,4 +41,5 @@ def chronoTimer():
         else:
             break
 
-chronoTimer()
+if __file__ == "__main__":
+    chronoTimer()
