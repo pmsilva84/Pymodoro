@@ -5,7 +5,7 @@
 Para configurar o tempo no pomodoro você pode alterar o valor de cada periodo de tempo no arquivo config em JSON
 
 - [x] Opções de continuar manuais
-- [ ] Um menu iniciar
+- [x] Um menu iniciar
 - [ ] Uma interface gráfica(GUI) -> Essa pode esperar 
 
 ### Dependencias
