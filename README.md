@@ -6,7 +6,7 @@ Para configurar o tempo no pomodoro você pode alterar o valor de cada periodo d
 
 - [x] Opções de continuar manuais
 - [x] Um menu iniciar
-- [ ] Uma interface gráfica(GUI) -> Essa pode esperar 
+- [ ] Uma interface gráfica(GUI) -> **Essa pode esperar** 
 
 ### Dependencias
 - **Pygame** : para que ele possa emitir um som no final de cada tempo
