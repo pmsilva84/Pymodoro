@@ -15,5 +15,5 @@ Para configurar o tempo no pomodoro você pode alterar o valor de cada periodo d
     ```
 - **Pyflget** : para poder deixar os números em arte ascii
     ```python
-        pip  install pyflget
+        pip  install pyfiglet
     ```
