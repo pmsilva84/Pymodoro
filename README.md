@@ -17,3 +17,7 @@ Para configurar o tempo no pomodoro você pode alterar o valor de cada periodo d
     ```python
         pip  install pyfiglet
     ```
+
+### Como configurar o seu timer
+
+Isso é simples, vá até o arquivo [config.json](Pymodoro/config.json) e faça as alterações por lá, é bem facil de entender
